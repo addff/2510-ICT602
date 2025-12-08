@@ -14,3 +14,6 @@ Activity
 8. Student can login and view Carry Mark.
 9. Student can target for score A+(90-100), A(80-89), A-(75-79), B+(70-74), B(65-69), B-(60-64), C+(55-59) and C(50-54) which app can show final examination mark should get for every score.
 10. Run
+
+
+For video youtube : https://youtu.be/0YdKzaluOAo
