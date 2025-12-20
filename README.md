@@ -116,10 +116,9 @@ flutter run -d chrome
 
 | Role      | Username    | Password      |
 |-----------|-------------|---------------|
-| Admin     | admin       | admin123      |
-| Lecturer  | lecturer1   | lecturer123   |
-| Student 1 | student1    | student123    |
-| Student 2 | student2    | student123    |
+| Admin     | admin1       | admin123     |
+| Lecturer  | lecturer   | lecturer123   |
+| Student 1 | student    | student123    |
 
 ## Database
 
@@ -246,3 +245,4 @@ For issues or questions, please contact your instructor.
 
 **Version**: 1.0.0  
 **Last Updated**: December 3, 2025
+
