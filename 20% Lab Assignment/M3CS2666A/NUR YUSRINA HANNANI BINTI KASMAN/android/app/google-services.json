@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334860684228",
+    "project_id": "labassignment-ict602",
+    "storage_bucket": "labassignment-ict602.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334860684228:android:6d8e2de54a071a120ef291",
+        "android_client_info": {
+          "package_name": "com.example.ict602_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOPhJn75M5DeCP0zbpRQ1KV2IVVn4fYXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
