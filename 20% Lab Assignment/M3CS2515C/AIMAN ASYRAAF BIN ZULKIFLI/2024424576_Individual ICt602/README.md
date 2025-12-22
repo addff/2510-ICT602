@@ -1,4 +1,4 @@
-# lab04
+# Individual Lab
 
 A new Flutter project.
 
