@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195843875330",
+    "project_id": "carry-mark-assignment",
+    "storage_bucket": "carry-mark-assignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195843875330:android:77787e3b897a827bd0fd1b",
+        "android_client_info": {
+          "package_name": "com.example.carry_mark_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPrBNjTPMl_UCx9qGnf5MbVZ1D8B96lRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
