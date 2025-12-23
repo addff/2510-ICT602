@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311309458772",
+    "project_id": "ict602-indass-firebase",
+    "storage_bucket": "ict602-indass-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311309458772:android:5a19c26c37da0d88edfcc1",
+        "android_client_info": {
+          "package_name": "com.example.ict602_indass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxXcT_7pBOaLa_t6FfYHpVAkAWWioe-0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
