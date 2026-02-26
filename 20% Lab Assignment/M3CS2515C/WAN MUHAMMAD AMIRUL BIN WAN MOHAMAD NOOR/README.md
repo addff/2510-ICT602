@@ -1,2 +1,5 @@
 # WAN MUHAMMAD AMIRUL BIN WAN MOHAMAD NOOR
-https://youtu.be/THISG499uFE
+---
+src: https://github.com/wan6503/ict602-individual-assignment
+
+vid: https://youtu.be/THISG499uFE
