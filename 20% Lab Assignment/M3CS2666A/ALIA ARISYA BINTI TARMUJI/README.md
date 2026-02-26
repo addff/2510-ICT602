@@ -1,2 +1,5 @@
 # ALIA ARISYA BINTI TARMUJI
-https://youtu.be/2bP4SNUS2i0?si=nfk7OiMLFXVJWiPP
+---
+src: https://github.com/aliasyaa03/2510-ICT602
+
+video: https://youtu.be/2bP4SNUS2i0?si=nfk7OiMLFXVJWiPP
